@@ -70,7 +70,4 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ---
 
-## 📬 Contact
 
-* **Repo:** [https://github.com/harsh-gohil-129/food-del](https://github.com/harsh-gohil-129/food-del)
-* **Author:** Harsh Gohil ([gohilharsh129@gmail.com](mailto:gohilharsh129@gmail.com))
