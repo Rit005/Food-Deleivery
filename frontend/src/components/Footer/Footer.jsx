@@ -7,13 +7,7 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.logo} alt="" />
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum
-            commodi quod dolorem iure unde non enim quis reprehenderit
-            asperiores incidunt consectetur, qui sunt obcaecati quae repudiandae
-            laboriosam, corporis quos perspiciatis.
-          </p>
+          
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
@@ -33,13 +27,13 @@ const Footer = () => {
           <h2>GET IN TOUCH</h2>
           <ul>
             <li>+1-212-456-7890</li>
-            <li>contact@tomato.com</li>
+            <li>contact@YumRush.com</li>
           </ul>
         </div>
       </div>
       <hr />
       <p className="footer-copyright">
-        Copyright 2025 © Tomato.com - All Rights Reserved
+        Copyright 2025 © YumRush.com - All Rights Reserved
       </p>
     </div>
   );
